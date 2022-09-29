@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(32, 151, 230);
+}
+
+h2 {
+    color: rgb(121, 205, 233);
+}
+
+.persona-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 10px;
+  }
